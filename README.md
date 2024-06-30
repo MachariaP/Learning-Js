@@ -1,1 +1,2 @@
 # Learning JavaScript
+# ES6
